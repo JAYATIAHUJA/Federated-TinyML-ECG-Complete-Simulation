@@ -1,0 +1,7 @@
+ptb-xl-1.0.3/
+data/
+models/
+*.h5
+*.tflite
+*.npz
+__pycache__/

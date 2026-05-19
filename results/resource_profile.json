@@ -1,0 +1,15 @@
+{
+  "model_params": 28833,
+  "fp32_param_kb": 112.62890625,
+  "fp32_file_kb": 142.90625,
+  "int8_file_kb": 39.328125,
+  "compression_ratio": 2.8638259833134683,
+  "inference_time_ms": 0.10425090789794922,
+  "activation_buffer_kb_est": 120.0,
+  "dp_buffer_kb_est": 40.0,
+  "total_sram_est_kb": 199.328125,
+  "mcu_limit_kb": 256.0,
+  "fits_in_mcu_sram": true,
+  "headroom_kb": 56.671875,
+  "tflite_path": "./models/ecg_model_int8.tflite"
+}
